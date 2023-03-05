@@ -4,7 +4,7 @@
 
 ### 🚀 About Me :
 
-Soy Full-Stack Web Developer y trabajo con las siguientes tecnologías: JavaScript, React, Redux, Node JS, Express, Sequelize, PostgreSQL, HTML, CSS. 
+I am a Full-Stack Web Developer and I work with the following technologies: JavaScript, React, Redux, Node JS, Express, Sequelize, PostgreSQL, HTML, CSS.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cesarzv-portfolio.vercel.app/)
