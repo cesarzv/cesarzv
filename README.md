@@ -5,8 +5,6 @@
 ### 🚀 About Me :
 
 Soy Full-Stack Web Developer y trabajo con las siguientes tecnologías: JavaScript, React, Redux, Node JS, Express, Sequelize, PostgreSQL, HTML, CSS. 
-Comencé en el mundo de la programación a mediados del 2022 y desde entonces no he parado de adquirir conocimientos, tanto de manera autodidacta como en el bootcamp SoyHenry
-
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://cesarzv-portfolio.vercel.app/)
